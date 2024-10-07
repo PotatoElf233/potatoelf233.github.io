@@ -1,2 +1,1 @@
-# potatoelf233.github.io
-PotatoElf's Blog
+# PotatoElf's Blog
